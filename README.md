@@ -30,3 +30,7 @@ The "Backspace" button allows you to remove the last character in the input fiel
 The calculator supports basic operations like addition (+), subtraction (-), multiplication (*), and division (/).
 <br>
 You can also perform percentage calculations by clicking the "%" button.
+## Contributing
+Contributions to iCalculator are welcome! If you have suggestions, bug fixes, or improvements, please create a pull request or open an issue on the GitHub repository.
+
+

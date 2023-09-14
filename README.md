@@ -4,7 +4,6 @@
 iCalculator is a simple web-based calculator with a user-friendly interface. It allows you to perform basic mathematical operations such as addition, subtraction, multiplication, division, and more.
 
 ## Features
-<br><br>
 Addition
 <br>
 Subtraction
@@ -20,7 +19,6 @@ Clear input
 Backspace to remove the last character
 
 ## Usage
-<br><br>
 Enter mathematical expressions using the provided buttons or your keyboard.
 <br>
 Click the "=" button to calculate the result.

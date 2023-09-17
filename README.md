@@ -1,5 +1,5 @@
 # icalulator
-![Screenshot (28)](https://github.com/Dheerajk99/icalulator/assets/104593008/43c51a11-89ef-4ac6-abd5-fd2ffdd8c045)
+
 <br>
 iCalculator is a simple web-based calculator with a user-friendly interface. It allows you to perform basic mathematical operations such as addition, subtraction, multiplication, division, and more.
 

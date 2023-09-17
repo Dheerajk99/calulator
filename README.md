@@ -1,4 +1,5 @@
-# calulator
+# Calulator
+![Screenshot (40)](https://github.com/Dheerajk99/calulator/assets/104593008/c8b6b5a1-3a95-45c9-8cb9-a63ce2cde7d3)
 
 <br>
 Calculator is a simple web-based calculator with a user-friendly interface. It allows you to perform basic mathematical operations such as addition, subtraction, multiplication, division, and more.

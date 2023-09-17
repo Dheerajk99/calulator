@@ -1,7 +1,7 @@
-# icalulator
+# calulator
 
 <br>
-iCalculator is a simple web-based calculator with a user-friendly interface. It allows you to perform basic mathematical operations such as addition, subtraction, multiplication, division, and more.
+Calculator is a simple web-based calculator with a user-friendly interface. It allows you to perform basic mathematical operations such as addition, subtraction, multiplication, division, and more.
 
 ## Features
 Addition
